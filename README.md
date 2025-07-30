@@ -14,6 +14,11 @@ It demonstrates primary keys, foreign keys, and basic SQL data management.
 - Week2_University_Management_System.sql (SQL code)
 - (Optional: any screenshots or CSV exports of query results)
 
+### Sample Output
+
+![Student-Course Output](output_students_courses.png.jpg)
+![Join Query Output](output_join_query.png.jpg)
+
 ## Author
 
 Your Name
